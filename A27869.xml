@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ode occasion'd by the death of the Queen with a letter from the author to Mr. Dryden / by a gentleman, a true lover of his country.</title>
+            <author>A. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27869</idno>
+            <idno type="STC">Wing B25</idno>
+            <idno type="STC">ESTC R28322</idno>
+            <idno type="EEBO-CITATION">10525974</idno>
+            <idno type="OCLC">ocm 10525974</idno>
+            <idno type="VID">45198</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27869)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45198)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1394:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ode occasion'd by the death of the Queen with a letter from the author to Mr. Dryden / by a gentleman, a true lover of his country.</title>
+                  <author>A. B.</author>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Warren for Francis Saunders,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: A.B.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45198:1"/>
+            <pb facs="tcp:45198:1" rendition="simple:additions"/>
+            <p>AN ODE Occaſion'd by the DEATH OF THE QUEEN, WITH A LETTER From the AUTHOR TO Mr. <hi>DRYDEN.</hi> 
+               <add>abusing him severely.</add>
+            </p>
+            <p>By a Gentleman A True Lover of his Country.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Warren</hi> for <hi>Francis Saunders,</hi> at the <hi>Blue Anchor</hi> in the Lower Walk of the <hi>New-Exchange,</hi> MDCXCV. <add>14. June.</add>
+            </p>
+            <pb facs="tcp:45198:2" rendition="simple:additions"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:45198:2"/>
+            <head>TO Mr. Dryden.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THough I have little Acquaintance with you, nor de<g ref="char:EOLhyphen"/>ſire to have more, I take upon me, with the Aſſu<g ref="char:EOLhyphen"/>rance of a Poet, to make this Dedication to you, which I hope you will the more eaſily excuſe, ſince you have often us'd the ſame freedom to others; and ſince I proteſt ſincerely, that I expect no Money from you.</p>
+            <p>I cou'd not forbear mentioning your Admired <hi>Lewis,</hi> whom you compare to <hi>Auguſtus,</hi> as juſtly as one may com<g ref="char:EOLhyphen"/>pare you to <hi>Virgil; Auguſtus</hi> (though not the moſt exact Pattern of a Prince) yet, on ſome Occaſions, ſhow'd Perſo<g ref="char:EOLhyphen"/>nal Valour, and was not a League-Breaker, a Poiſoner, a Pyrat: <hi>Virgil</hi> was a good Man and a clean Poet, all his Excellent Writings may be carried by a Child in one hand more eaſily, than all your <hi>Almanzors</hi> can be by a Porter upon both ſhoulders.</p>
+            <p>When I ſaw your prodigious Epiſtle to the Tranſlation of <hi>Juvenal,</hi> I fear'd you were wheeling to the Government; I confeſs too I long expected ſomething from you on the late ſad occaſion, that has employ'd ſo many Pens, but 'tis well that you have kept ſilence; I hope you'll always be on the other ſide; Did ev'n Popery ever get any honour by you?</p>
+            <pb facs="tcp:45198:3"/>
+            <p> You may wonder that I ſubſcribe not my Name at length, but I defer that to another time: I hear you are Tranſlating again, let Engliſh <hi>Virgil</hi> be better than Engliſh <hi>Juvenal,</hi> or 'tis odds you'll hear of me more at large; in the mean time, hoping that you and your <hi>Covey</hi> will diſlike what I have written, I remain,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your very Humble Servant, <hi>A. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="ode">
+            <pb n="1" facs="tcp:45198:3"/>
+            <head>AN ODE Occaſion'd by the DEATH of the QUEEN.</head>
+            <lg>
+               <l>THE Queen is dead and <hi>Lewis</hi> lives!</l>
+               <l>O Juſtice, tho' from Earth long ſince you flew,</l>
+               <l>Will you forſake the Heavens too?</l>
+               <l>O where are the Rewards that Virtue gives?</l>
+               <l>Or gives ſhe none,</l>
+               <l>But her Poor helpleſs ſelf alone?</l>
+               <l>Do the moſt earneſt Vows made by Mankind</l>
+               <l>To the Great God above mix idely with the Wind?</l>
+               <l>Has the Almighty from His height</l>
+               <l>But an imperfect ſight</l>
+               <l>Of things below the Firmament?</l>
+               <l>Or, if He plainly ſees and hears,</l>
+               <l>Can He be Goodneſs, yet wou'd not relent</l>
+               <l>To a whole wretched Nation's Pray'rs and Tears?</l>
+            </lg>
+            <lg>
+               <l>Ceaſe to expoſtulate, Vain Man,</l>
+               <l>Th' Almighty (much offended) can,</l>
+               <l>But will not always ſee and hear;</l>
+               <l>He ſhuts His pitying Eye, He ſtops His willing Ear:</l>
+               <l>Virtue the beſt Rewards to <hi>MARY</hi> gives,</l>
+               <l>Juſtice in Heav'n alone muſt refuge find:</l>
+               <l>For a ſad Vengeance on deprav'd Mankind,</l>
+               <l>The Queen is dead, and <hi>Lewis</hi> lives.</l>
+               <pb n="2" facs="tcp:45198:4"/>
+               <l> To us, alas! ſhe's dead; no more, no more, the Queen</l>
+               <l>By Human Eyes is ſeen:</l>
+               <l>From the Corrupted Age ſhe's flown</l>
+               <l>Not to behold</l>
+               <l>Votes bought and ſold;</l>
+               <l>Into the Seats of Holineſs ſhe's gone:</l>
+               <l>Leſs perfect Saints muſt ſtay</l>
+               <l>For part of their wiſh't Heav'n till the Great Judgment-Day:</l>
+               <l>She's now Entire in the High Palace, where</l>
+               <l>Few Earthly Rulers ever will appear:</l>
+               <l>She's now where ſhe'll Her Glorious <hi>William</hi> ſee,</l>
+               <l>(But Guarded Nations pray that late the time may be)</l>
+               <l>With Him ſhe'll live above</l>
+               <l>In Triumph and in Pure Eternal Love.</l>
+            </lg>
+            <lg>
+               <l>For Ever near Th'Almighty is Her Place</l>
+               <l>She's cloath'd with Light,</l>
+               <l>The Angels ſhe beholds, employs their fight,</l>
+               <l>And to the Heavens adds the Beauty of Her Face:</l>
+               <l>The Cherubins and Seraphins rejoice,</l>
+               <l>To the Celeſtial King</l>
+               <l>Harmoniouſly they ſing,</l>
+               <l>And hear the Muſick of Her Voice.</l>
+               <l>Thus Bleſſing and thus Bleſt,</l>
+               <l>The Pious Queen looks down</l>
+               <l>From Her Etherial Throne,</l>
+               <l>And wonders that the World's poſſeſt</l>
+               <l>Still with Infernal Vice! What pleaſure Tyrants find</l>
+               <l>In the deſtruction of Mankind!</l>
+               <l>Why madly Heav'n to loſe,</l>
+               <l>By various Wickedneſs, ſo many Mortals chooſe!</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>THE Temple of Death, a Poem; written by the Marqueſs of <hi>Normanby. Horace</hi> of the Art of Poetry, made Engliſh by the Earl of <hi>Roſcommon.</hi> The Duel of the Stags, by the Honourable Sir <hi>Robert Howard.</hi> Together with ſeveral other Excellent Poems by the Earls of <hi>Rocheſter</hi> and <hi>Orrery,</hi> Sir <hi>Charles Sedley,</hi> Sir <hi>George Etheridge,</hi> the Honourable Mr. <hi>Montague,</hi> and other choice Pens. To which are added ſeveral Poems of the Honourable Madam <hi>Wharton.</hi> The Second Edition Corrected.</p>
+            <p>An Epiſtle to the Right Honourable <hi>Charles</hi> Earl of <hi>Dorſet</hi> and <hi>Middleſex,</hi> Lord Chamberlain of His Majeſty's Houſhold, occaſion'd by His Majeſty's Victory in <hi>Ireland.</hi>
+            </p>
+            <p>An Epiſtle to <hi>Charles Montague</hi> Eſq; on His Majeſty's Voyage into <hi>Holland,</hi> by Mr. <hi>George Stepny.</hi>
+            </p>
+            <pb facs="tcp:45198:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
